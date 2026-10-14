@@ -1,6 +1,3 @@
-
-                      MODERN .NET 8 FILE EXPLORER
-
 A fast, crash-resistant, modern Windows file manager built with C# (.NET 8)
 and WPF. Designed using strict MVVM architecture, this application combines
 standard local file management with advanced system utilities, including
